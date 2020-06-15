@@ -1,0 +1,4 @@
+[submodule "DNS-Challenge"]
+	path = DNS-Challenge
+	url = https://github.com/microsoft/DNS-Challenge
+	ignore = dirty
