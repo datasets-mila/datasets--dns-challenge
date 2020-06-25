@@ -1,0 +1,4 @@
+# Fix ModuleNotFoundError: No module named 'numba.decorators' in librosa
+numba<=0.48
+librosa==0.7.2
+PySoundFile==0.9.0.post1

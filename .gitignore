@@ -1,2 +1,6 @@
 .nfs*
+__pycache__/
 /DNS-Challenge/
+/preprocess/
+*.out
+*.err
