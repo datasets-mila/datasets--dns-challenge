@@ -1,4 +1,4 @@
-600 DNS-Challenge/datasets/blind_test_set/
-65348 DNS-Challenge/datasets/clean/
-65303 DNS-Challenge/datasets/noise/
-901 DNS-Challenge/datasets/test_set/
+12000 preprocess/clean/
+3 preprocess/logs/
+12000 preprocess/noise/
+12000 preprocess/noisy/
