@@ -1,2 +1,5 @@
 .nfs*
+*.jugdata/
+/.tmp/
+/logs/
 /DNS-Challenge/
