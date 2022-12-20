@@ -1,4 +1,7 @@
 .nfs*
+*.jugdata/
+/.tmp/
+/logs/
 __pycache__/
 /DNS-Challenge/
 /preprocess/
